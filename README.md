@@ -1,5 +1,8 @@
 # 🌾 AgriAssist-MY
 
+This is my AI-powered RAG application for Malaysian Agricultural Schemes.
+# 🌾 AgriAssist-MY
+
 An AI-powered Retrieval-Augmented Generation (RAG) application that helps users search and understand Malaysian agricultural schemes using natural language.
 
 ---
